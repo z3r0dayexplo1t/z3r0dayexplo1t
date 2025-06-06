@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sam/Z3r0dayexplo1t
+# 👋 Hey there, I'm Sam
 
 I'm a 20-year-old developer obsessed with building secure, scalable, and slightly overengineered systems. I thrive in the deep backend — think bare metal performance, behavioral intelligence, and smart automation.
 
