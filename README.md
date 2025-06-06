@@ -21,12 +21,6 @@ I'm a 20-year-old developer obsessed with building secure, scalable, and slightl
 - Developer-first tools with a focus on speed, clarity & control  
 - Experimental protocol designs for secure communication
 
----
-
-> ⚡ “If you can't explain it simply, you don't understand it well enough.” — Einstein  
-> ...Or maybe you're just overbuilding it. Either way, I'm here for it.
-
----
 
 🐑  
 This sheep is silently judging your frontend framework choice.  
