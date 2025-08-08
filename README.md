@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sam
 
-I'm a 20-year-old developer obsessed with building secure, scalable, and slightly overengineered systems. I thrive in the deep backend :) 
+I'm a 21-year-old developer obsessed with building secure, scalable, and slightly overengineered systems. I thrive in the deep backend :) 
 
 ### 🧰 Stack In Rotation
 `Go` • `Node.js` • `TypeScript` • `Redis` • `MongoDB` • `PostgreSQL` • `WebSockets`
