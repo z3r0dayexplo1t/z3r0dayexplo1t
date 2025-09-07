@@ -10,7 +10,7 @@
                                         |___/          |_|     - Sheep are hella cute :) ✨🐑
 
 
-      🎮 discord: z3r0dayexplo1t  📤 mail: zero@o2x.io
+      🎮 discord: z3r0dayexplo1t  📤 mail: zer0thr33@protonmail.com
       
 
       
